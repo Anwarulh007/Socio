@@ -13,6 +13,12 @@ This is a DSA Project offers a comprehensive solution for tracking and analyzing
 * Data Reading: Reads existing data from a CSV file stored in the user's directory.
 * Data Analysis: Calculates engagement points based on a predefined scoring system, allowing you to quantify your interactions.
 
+**Dataset Overview**
+
+<p align="center"> 
+ <img src="https://github.com/Anwarulh007/Student-Dropout-Analysis/blob/main/Dataset%20Overview.jpg" alt="Dataset Overview" style="width: auto; height: 300px;"/> 
+</p>
+
 **Follow the On-Screen Instructions**
 * Create or login to an account.
 * Generate data to simulate social media activity.
