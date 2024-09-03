@@ -3,7 +3,9 @@
 
 This is a DSA Project offers a comprehensive solution for tracking and analyzing your social media engagement. It provides features for generating data, reading existing data, calculating engagement points, and identifying your top friends based on interactions.
 
-
+<p align="center">
+<img src="https://jooinn.com/images/the-social-network-people-networking.jpg" alt="Online Election Voting System" style="width: auto; height: 200px;"/>
+</p>
 
 **Key Features**
 
