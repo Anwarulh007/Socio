@@ -16,7 +16,7 @@ This is a DSA Project offers a comprehensive solution for tracking and analyzing
 **Dataset Overview**
 
 <p align="center"> 
- <img src="https://github.com/Anwarulh007/Student-Dropout-Analysis/blob/main/Dataset%20Overview.jpg" alt="Dataset Overview" style="width: auto; height: 300px;"/> 
+ <img src="https://github.com/Anwarulh007/Socio/blob/main/Dataset%20Overview.jpg" alt="Dataset Overview" style="width: auto; height: 300px;"/> 
 </p>
 
 **Follow the On-Screen Instructions**
